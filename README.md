@@ -7,5 +7,5 @@ Systems (**NeurIPS**), 2023.
 
 
 ## Acknowledgement
-* Renewable data from [California Independent System Operator](https://www.caiso. com/Pages/default.aspx) 
+* Renewable data from [California Independent System Operator](https://www.caiso.com/Pages/default.aspx) 
 * Demand data from [Azure Cload Dataset](https://github.com/Azure/AzurePublicDataset).
