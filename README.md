@@ -1,1 +1,1 @@
-# Anytime-Competitive-RL
+# Anytime-Competitive Reinforcement Learning with Policy Prior
